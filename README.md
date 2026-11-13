@@ -47,7 +47,7 @@ Key Key Features
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/rebiraolin/Guade_study-buddy_node.git>
+git clone <https://github.com/Rahelq/Guade-Study-Buddy-Backend.git>
 cd study-buddy-api
 ```
 
